@@ -52,8 +52,7 @@ async-await-deep-dive
 │   ├── 05-concurrency-patterns.md
 │   ├── 06-async-iteration.md
 │   ├── 07-pitfalls.md
-│   ├── 08-cancellation.md
-│   └── cheatsheet.md
+│   └── 08-cancellation.md
 │
 ├── codes
 │   ├── index.html
