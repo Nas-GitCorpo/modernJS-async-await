@@ -6,23 +6,6 @@ This repo is designed for **presentations, workshops, and self-learning**. It co
 
 ---
 
-# Why This Repository Exists
-
-JavaScript is **single-threaded**, yet it handles thousands of asynchronous operations efficiently.
-
-Understanding **how the event loop, Promises, and async/await work together** is essential for writing scalable JavaScript applications.
-
-This repository helps you learn:
-
-* Why asynchronous programming exists in JavaScript
-* How the **event loop** schedules work
-* How **Promises** manage asynchronous results
-* How **async/await** simplifies asynchronous code
-* How to implement **parallel execution and concurrency**
-* Common **pitfalls and debugging strategies**
-
----
-
 # Learning Roadmap
 
 Follow the topics in this order for the best understanding.
