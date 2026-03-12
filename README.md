@@ -27,6 +27,31 @@ Follow the topics in this order for the best understanding.
 ```
 async-await-deep-dive
 │
+├── assets
+│   ├── async-sync.png
+│   ├── cheatsheet.md
+│   ├── event-loop.png
+│   └── promise-combinators.png
+├── code-analysis
+│   ├── 01-callbacks.md
+│   ├── 02-promises.md
+│   ├── 03-async-await-basic.md
+│   ├── 04-sequential-vs-parallel.md
+│   ├── 05-promise-combinator.md
+│   ├── 06-top-level-await.md
+│   ├── 07-async-iteration.md
+│   ├── 08-foreach-trap.md
+│   └── 09-abortcontroller.md
+├── codes
+│   ├── 01-callbacks.js
+│   ├── 02-promises.js
+│   ├── 03-async-await-basic.js
+│   ├── 04-sequential-vs-parallel.js
+│   ├── 05-promise-combinator.js
+│   ├── 06-top-level-await.mjs
+│   ├── 07-async-iteration.mjs
+│   ├── 08-foreach-trap.js
+│   └── 09-abortcontroller.js
 ├── docs
 │   ├── 01-javascript-concurrency.md
 │   ├── 02-event-loop.md
@@ -36,22 +61,7 @@ async-await-deep-dive
 │   ├── 06-async-iteration.md
 │   ├── 07-pitfalls.md
 │   └── 08-cancellation.md
-│
-├── codes
-│   ├── index.html
-│   ├── setup.md
-│   ├── scripts
-│       ├── 01-callbacks.js
-│       ├── 02-promises.js
-│       ├── 03-async-await-basic.js
-│       ├── 04-sequential-vs-parallel.js
-│       ├── 05-promise-combinators.js
-│       ├── 06-top-level-await.mjs
-│       ├── 07-async-iteration.mjs
-│       ├── 08-foreach-trap.js
-│       └── 09-abortcontroller.js
-│
-└── assets
+└── README.md
 ```
 
 ---
